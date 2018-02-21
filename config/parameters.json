@@ -1,0 +1,19 @@
+{
+  "url" : "https://e-servicesuite100.mxapps.io",
+  "identifier" : "com.e-servicesuite.ess",
+  "version" : "0.0.19",
+  "name" : "e-ServiceSuite",
+  "description" : "e-Service Suite online hybrid app",
+  "iosEnabled" : false,
+  "androidEnabled" : true,
+  "requirePin" : true,
+  "enableOffline" : false,
+  "permissions" : {
+    "calendar" : false,
+    "camera" : true,
+    "photoLibrary" : true,
+    "contacts" : false,
+    "microphone" : false,
+    "geoLocation" : true
+  }
+}
